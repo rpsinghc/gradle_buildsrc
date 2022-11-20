@@ -1,0 +1,4 @@
+rootProject.name = 'user-progress'
+
+include 'user-app'
+include 'user-core'
